@@ -18,4 +18,4 @@ Je suis une Data Scientist spécialisée dans :
 
 ## 💼 Contact
 - **LinkedIn** : [Mon profil](https://www.linkedin.com/in/ndeye-arame-niang)
-- **Email** : ndeye.arame.niang@example.com
+- **Email** : ng.niang1@outlook.fr
