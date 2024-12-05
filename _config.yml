@@ -1,7 +1,7 @@
 title: "Portfolio - Ndeye Arame NIANG"
 description: "Data Scientist | NLP Enthusiast | DevOps Learner"
 baseurl: "" # Important : le chemin relatif du projet
-url: "https://Arame22.github.io"
+url: "https://arame22.github.io/porfolio/"
 theme: jekyll-theme-cayman
 author: 
   name: "Ndeye Arame NIANG"
