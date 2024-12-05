@@ -1,6 +1,6 @@
 title: "Portfolio - Ndeye Arame NIANG"
 description: "Data Scientist | NLP Enthusiast | DevOps Learner"
-#baseurl: "" # Important : le chemin relatif du projet
+baseurl: "" # Important : le chemin relatif du projet
 url: "https://Arame22.github.io"
 theme: jekyll-theme-cayman
 author: 
