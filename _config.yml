@@ -1,0 +1,10 @@
+title: "Portfolio - Ndeye Arame NIANG"
+description: "Data Scientist | NLP Enthusiast | DevOps Learner"
+baseurl: "" # Laissez vide pour GitHub Pages
+url: "https://ndeye-arame-niang.github.io"
+theme: minima # Utilisez un thème Jekyll intégré ou personnalisé
+author: 
+  name: "Ndeye Arame NIANG"
+  email: "ndeye.arame.niang@example.com"
+  linkedin: "https://www.linkedin.com/in/ndeye-arame-niang"
+  github: "https://github.com/ndeye-arame-niang"
